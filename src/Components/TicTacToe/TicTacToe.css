@@ -1,0 +1,21 @@
+.text-color{
+    color: #26ffcb;
+}
+
+.title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.boxes {
+    height: 120px;
+    width: 33.33%;
+    background-color: #1f3540;
+    border: 4px solid #0f1B21;
+    border-radius: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
